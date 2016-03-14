@@ -1,0 +1,1 @@
+Source for the and/&& command; http://answers.unity3d.com/questions/53164/how-do-i-use-and-and-or-in-unityscript.html
