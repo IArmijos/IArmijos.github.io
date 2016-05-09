@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/titleScreen.unity
+  isLoaded: 1
+  isActive: 1
