@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 250b38ddf380a424d8b107ee8aec9890
+timeCreated: 1462818419
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: chest
+    100002: clavicle_L
+    100004: clavicle_R
+    100006: Cube
+    100008: eye_L
+    100010: eye_R
+    100012: f_index_01_L
+    100014: f_index_01_R
+    100016: f_ring_01_L
+    100018: f_ring_01_R
+    100020: foot_L
+    100022: foot_R
+    100024: forearm_L
+    100026: forearm_R
+    100028: hand_L
+    100030: hand_R
+    100032: head
+    100034: hips
+    100036: jaw
+    100038: neck
+    100040: //RootNode
+    100042: shin_L
+    100044: shin_R
+    100046: spine
+    100048: thigh_L
+    100050: thigh_R
+    100052: thumb_02_L
+    100054: thumb_02_R
+    100056: thumb_03_L
+    100058: thumb_03_R
+    100060: toe_L
+    100062: toe_R
+    100064: upper_arm_L
+    100066: upper_arm_R
+    100068: v1
+    100070: v1_Body
+    100072: v1_Eyebrow003
+    100074: v1_Eyelashes01
+    100076: v1_jeans01
+    100078: v1_Low-Poly
+    100080: v1_mhair01
+    100082: v1_shoes02
+    100084: v1_tshirt02
+    400000: chest
+    400002: clavicle_L
+    400004: clavicle_R
+    400006: Cube
+    400008: eye_L
+    400010: eye_R
+    400012: f_index_01_L
+    400014: f_index_01_R
+    400016: f_ring_01_L
+    400018: f_ring_01_R
+    400020: foot_L
+    400022: foot_R
+    400024: forearm_L
+    400026: forearm_R
+    400028: hand_L
+    400030: hand_R
+    400032: head
+    400034: hips
+    400036: jaw
+    400038: neck
+    400040: //RootNode
+    400042: shin_L
+    400044: shin_R
+    400046: spine
+    400048: thigh_L
+    400050: thigh_R
+    400052: thumb_02_L
+    400054: thumb_02_R
+    400056: thumb_03_L
+    400058: thumb_03_R
+    400060: toe_L
+    400062: toe_R
+    400064: upper_arm_L
+    400066: upper_arm_R
+    400068: v1
+    400070: v1_Body
+    400072: v1_Eyebrow003
+    400074: v1_Eyelashes01
+    400076: v1_jeans01
+    400078: v1_Low-Poly
+    400080: v1_mhair01
+    400082: v1_shoes02
+    400084: v1_tshirt02
+    2300000: Cube
+    3300000: Cube
+    4300000: v1_Eyelashes01
+    4300002: v1_Eyebrow003
+    4300004: v1_Low-Poly
+    4300006: v1_mhair01
+    4300008: v1_tshirt02
+    4300010: v1_jeans01
+    4300012: v1_shoes02
+    4300014: v1_Body
+    4300016: Cube
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: v1_Body
+    13700002: v1_Eyebrow003
+    13700004: v1_Eyelashes01
+    13700006: v1_jeans01
+    13700008: v1_Low-Poly
+    13700010: v1_mhair01
+    13700012: v1_shoes02
+    13700014: v1_tshirt02
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
